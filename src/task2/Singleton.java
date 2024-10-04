@@ -14,3 +14,4 @@ public class Singleton {
         System.out.println(logger1 == logger2);
     }
 }
+

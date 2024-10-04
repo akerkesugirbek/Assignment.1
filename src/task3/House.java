@@ -1,6 +1,6 @@
 package task3;
 
-class House {
+class  House {
     private final int numRooms;
     private final int numFloors;
     private final boolean hasPool;

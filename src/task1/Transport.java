@@ -1,5 +1,5 @@
 package task1;
 
-public interface Transport {
+public interface  Transport {
     void deliver();
 }

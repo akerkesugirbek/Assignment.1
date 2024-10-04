@@ -1,5 +1,5 @@
 package task1;
 
-abstract class TransportFactory {
+abstract class  TransportFactory {
     public abstract Transport createTransport();
 }

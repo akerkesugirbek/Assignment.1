@@ -6,6 +6,7 @@ public class WindowsFactory implements GUIFactory {
         return new WindowsButton();
     }
 
+
     @Override
     public Window createWindow() {
         return new WindowsWindow();
